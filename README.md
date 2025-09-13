@@ -78,7 +78,7 @@ Not available.
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2020.06.01_GitHub_License-plate-character-recognition/raw/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png" 
+  <img src="https://github.com/IvanSicaja/2020.06.01_GitHub_License-plate-character-recognition/raw/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.png" 
        alt="App Preview" 
        width="640" 
        height="360">
