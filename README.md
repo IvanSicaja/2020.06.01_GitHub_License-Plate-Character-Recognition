@@ -81,7 +81,7 @@ Not available.
   <img src="https://github.com/IvanSicaja/2020.06.01_GitHub_License-Plate-Character-Recognition/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
        alt="License Plate Character Recognition Preview" 
        width="640" 
-       height="360">
+       height="1000">
 </p>
 
 ---
@@ -91,6 +91,7 @@ Not available.
 Not available.
 
 ---
+
 
 
 
